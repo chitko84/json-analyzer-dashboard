@@ -4,9 +4,21 @@ A browser-based developer tool for validating, exploring, comparing, transformin
 
 ## Preview
 
-![JSON Analyzer Dashboard](./screenshot.png)
+### Main Dashboard
 
-> `screenshot.png` is not currently included. Add a dashboard screenshot named `screenshot.png` to the repository root so the preview renders on GitHub.
+![JSON Analyzer Dashboard](./screenshots/dashboard.png)
+
+### JSON Explorer
+
+![JSON Explorer](./screenshots/explorer.png)
+
+### JSON Schema
+
+![JSON Schema](./screenshots/schema.png)
+
+### JSON Compare
+
+![JSON Compare](./screenshots/compare.png)
 
 ## Features
 
