@@ -1,0 +1,14 @@
+{
+  "company": "Northstar Labs",
+  "active": true,
+  "employees": 42,
+  "location": {
+    "city": "Kuala Lumpur",
+    "country": "Malaysia"
+  },
+  "teams": [
+    { "name": "Platform", "members": 12, "remote": true },
+    { "name": "Product", "members": 9, "remote": false }
+  ],
+  "stack": ["Next.js", "TypeScript", "PostgreSQL"]
+}
